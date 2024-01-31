@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FloMusic</string>
+
+    <string name="str_home">홈</string>
+    <string name="str_around">둘러보기</string>
+    <string name="str_audio">오디오</string>
+    <string name="str_search">검색</string>
+    <string name="str_storage">보관함</string>
 </resources>
